@@ -1,0 +1,24 @@
+.banner {
+  position: relative;
+  height: 800px;
+}
+
+.banner div {
+  position: absolute;
+  bottom: 15rem;
+  left: 1rem;
+  color: white;
+  font-size: 1rem;
+  width: 30%;
+  text-align: justify;
+}
+
+.banner button {
+  background-color: rgb(55, 55, 55);
+  color: white;
+  padding: 0.5rem;
+  width: 5rem;
+  margin-right: 1rem;
+  border: none;
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.movie-detail {
+  display: flex;
+  color: white;
+  padding-left: 1rem;
+}
+
+.movie-detail h1 {
+  border-bottom: 2px solid white;
+}
+
+.movie-detail__info {
+  flex: 50%;
+}
+
+.movie-detail__video {
+  flex: 50%;
+}
